@@ -1,1 +1,1 @@
-<script>window.alert("external loaded from my github");</script>
+<script>document.body.style.backgroundColor = "red";</script>
