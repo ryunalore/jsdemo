@@ -1,1 +1,1 @@
-<script>document.body.style.backgroundColor = "red";</script>
+alert("This is external JavaScript code from my github!");
